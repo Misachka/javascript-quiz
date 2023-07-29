@@ -21,7 +21,7 @@ After user will see a screen where they can save their initials and score.
 
 
 
-Deployed site/Website URL: 
+Deployed site/Website URL:  https://misachka.github.io/javascript-quiz/index.html
 
 ![Alt text](image.png)
 
