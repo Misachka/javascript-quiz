@@ -90,3 +90,6 @@ li {
     margin-top: 20px;
     border-top: 1px solid lightgray;
 }
+nav {
+   float: left;
+}
